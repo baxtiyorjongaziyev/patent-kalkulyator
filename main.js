@@ -1,0 +1,1 @@
+console.log('Patent kalkulyator ishladi');
